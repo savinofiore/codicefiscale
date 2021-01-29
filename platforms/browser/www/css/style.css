@@ -1,0 +1,43 @@
+body{
+    background-color: green;
+    font-size: 1.2em;
+}
+
+#header{
+    color: white;
+    margin: 0 auto;
+    width: auto;
+    align-items: center;
+    padding: 2%;
+}
+
+#form{
+    background-color: white;
+    width: 80%;
+    padding: 3%;
+    margin: 0 auto;
+    border-radius: 2em;
+}
+
+#camponome, #campocognome, #camposesso, #campoluogonascita, #campodatanascita {
+float: left;
+display: block;
+width: 95%;
+}
+
+#spuntanome, #spuntacognome, #spuntasesso, #spuntaluogonascita, #spuntadatanascita{
+    float: left;
+    display: block;
+    width: 3%;
+}
+
+
+.tecnico{
+    clear: both;
+    width: 2%;
+}
+
+.calcola{
+    border-radius: 1em;
+    padding: 3%;
+}

@@ -1,0 +1,43 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "codice_fiscale_fiore"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "codice_fiscale_fiore"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "codice_fiscale_fiore"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "codice_fiscale_fiore"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "codice_fiscale_fiore"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "codice_fiscale_fiore"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "codice_fiscale_fiore"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "codice_fiscale_fiore"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "codice_fiscale_fiore"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "codice_fiscale_fiore"
+        }
+    }
+}
