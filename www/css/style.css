@@ -13,7 +13,7 @@ body{
 
 #form{
     background-color: white;
-    width: 80%;
+    width: 95%;
     padding: 3%;
     margin: 0 auto;
     border-radius: 2em;
@@ -22,7 +22,7 @@ body{
 #camponome, #campocognome, #camposesso, #campoluogonascita, #campodatanascita {
 float: left;
 display: block;
-width: 95%;
+width: 98%;
 }
 
 #spuntanome, #spuntacognome, #spuntasesso, #spuntaluogonascita, #spuntadatanascita{
